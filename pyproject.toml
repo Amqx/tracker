@@ -1,0 +1,10 @@
+[project]
+name = "webhook"
+version = "0.1.0"
+authors = [
+    { name = "Amqx", email = "157001598+Amqx@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pyyaml>=6.0.3",
+]

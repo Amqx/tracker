@@ -1,0 +1,9 @@
+defaults:
+  webhook_env: DISCORD_WEBHOOK_URL
+  username: Commit Tracker
+  notify_on_first_run: false
+
+repositories:
+  - Aidoku/Aidoku
+  - jobobby04/TachiyomiSY
+  - Aidoku-Community/sources

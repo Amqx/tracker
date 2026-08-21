@@ -1,0 +1,73 @@
+name: commit notifier
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Print payloads instead of posting to Discord"
+        type: boolean
+        default: false
+
+# never let two runs update state.json at the same time
+concurrency:
+  group: commit-notifier
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT || github.token }}
+          persist-credentials: true
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true
+          cache-dependency-glob: uv.lock
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Check for new commits
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          uv run tracker.py \
+            --config repos.yml \
+            --state state.json \
+            ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Commit state
+        if: ${{ always() && !inputs.dry_run }}
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain -- state.json)" ]; then
+            echo "state.json unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git commit -m "chore: update commit tracker state [skip ci]"
+          # another run may have pushed while we worked; rebase and retry
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push rejected, rebasing (attempt $attempt)"
+            git pull --rebase --autostash
+            sleep $((attempt * 3))
+          done
+          echo "could not push state.json" >&2
+          exit 1
