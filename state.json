@@ -1,0 +1,23 @@
+{
+  "repos": {
+    "Aidoku-Community/sources@<default>": {
+      "branch": "main",
+      "etag": "\"1a09406d6e9d0986fda426db06e1ead1930578cd393b6f14a2f41536fa9b9ad9\"",
+      "last_checked": "2026-08-21T16:55:29Z",
+      "last_sha": "f62d898042cc6734dc1e4857cac8a455186edf30"
+    },
+    "Aidoku/Aidoku@<default>": {
+      "branch": "main",
+      "etag": "\"095240223502bcea99ada3f6f169bf809a3339a097253d67cfca1c0527986dfa\"",
+      "last_checked": "2026-08-21T16:55:27Z",
+      "last_sha": "45fe8231a8da58f70f5f2e152a039fcb49eab4cb"
+    },
+    "jobobby04/TachiyomiSY@<default>": {
+      "branch": "master",
+      "etag": "\"d73786f62ccae2779ea49e79b1937a6efc5e8e8afedcce443c6c5d4d35ad6a32\"",
+      "last_checked": "2026-08-21T16:55:28Z",
+      "last_sha": "14648c7cf0aa84e5a35d48de9dbf1386df6cca42"
+    }
+  },
+  "updated_at": "2026-08-21T16:55:29Z"
+}
