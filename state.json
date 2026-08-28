@@ -3,21 +3,21 @@
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
       "etag": "\"da44e7995b9e914f184cfc85f3ca694a344192a9298b0f58066cd5c8225893ec\"",
-      "last_checked": "2026-08-28T10:54:53Z",
+      "last_checked": "2026-08-28T22:05:07Z",
       "last_sha": "16e515c7c8835cdb99b1f0805811d0ebeabddb12"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
       "etag": "\"d89231140fb2962bf1e1750abe7831d007efe5ac3e668981d3a31b210ded0abb\"",
-      "last_checked": "2026-08-28T10:54:52Z",
+      "last_checked": "2026-08-28T22:05:06Z",
       "last_sha": "4aff2fa17c36499f759830546f2e44d4eae9012d"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"d73786f62ccae2779ea49e79b1937a6efc5e8e8afedcce443c6c5d4d35ad6a32\"",
-      "last_checked": "2026-08-28T10:54:52Z",
+      "last_checked": "2026-08-28T22:05:07Z",
       "last_sha": "14648c7cf0aa84e5a35d48de9dbf1386df6cca42"
     }
   },
-  "updated_at": "2026-08-28T10:54:53Z"
+  "updated_at": "2026-08-28T22:05:07Z"
 }
