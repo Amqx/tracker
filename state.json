@@ -2,22 +2,22 @@
   "repos": {
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
-      "etag": "\"da44e7995b9e914f184cfc85f3ca694a344192a9298b0f58066cd5c8225893ec\"",
-      "last_checked": "2026-08-29T19:20:04Z",
-      "last_sha": "16e515c7c8835cdb99b1f0805811d0ebeabddb12"
+      "etag": "\"2104884cbeb92eb235aaca8b4575d7b31669637a8b595516e4ce1933a0cc6a8e\"",
+      "last_checked": "2026-08-29T22:32:44Z",
+      "last_sha": "3677f4c68165ea14a7ebcdf92f73c11e0d8b1da0"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
-      "etag": "\"8e1a05e2b94dae3e1fd69774e3f13645a556558da6322c8b8325c4801c8b005d\"",
-      "last_checked": "2026-08-29T19:20:03Z",
-      "last_sha": "8d13b4309ee7822b6470b8d4a1991a8f3196750b"
+      "etag": "\"3e06ca766d8527d83fe4af7fb25b77afc1c260d193e6706b82d6ce57efd2bcaa\"",
+      "last_checked": "2026-08-29T22:32:42Z",
+      "last_sha": "17e511f7e9d91e2d98da8a8e8ccde3a12799e612"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"d73786f62ccae2779ea49e79b1937a6efc5e8e8afedcce443c6c5d4d35ad6a32\"",
-      "last_checked": "2026-08-29T19:20:03Z",
+      "last_checked": "2026-08-29T22:32:43Z",
       "last_sha": "14648c7cf0aa84e5a35d48de9dbf1386df6cca42"
     }
   },
-  "updated_at": "2026-08-29T19:20:04Z"
+  "updated_at": "2026-08-29T22:32:44Z"
 }
