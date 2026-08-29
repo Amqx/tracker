@@ -1,9 +1,15 @@
 defaults:
-  webhook_env: DISCORD_WEBHOOK_URL
-  username: Commit Tracker
-  notify_on_first_run: false
+  webhook_env: DISCORD_WEBHOOK_URL   # env var holding the webhook URL
+  username: commit tracker           # override the webhook's display name
+  # avatar_url: https://...
+  notify_on_first_run: false         # true = announce history on the first run
 
 repositories:
-  - Aidoku/Aidoku
-  - jobobby04/TachiyomiSY
-  - Aidoku-Community/sources
+  - astral-sh/uv                     # default branch
+  - python/cpython@main              # explicit branch
+
+  - repo: your-org/your-service
+    branch: main
+    label: your-service              # title shown in the embed
+    webhook_env: DISCORD_WEBHOOK_DEPLOYS   # send this repo to another channel
+    notify_on_first_run: true

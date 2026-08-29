@@ -9,6 +9,11 @@ Secrets the workflow expects: `DISCORD_WEBHOOK_URL` (required) and `GH_PAT`
 (optional -- needed to watch private repositories, and to push `state.json` back
 with something other than `GITHUB_TOKEN`).
 
+## Setup
+
+Clone this repository, then create a branch called `personal`. Then modify `repos.yml`
+as below and enable GitHub Actions.
+
 ## Configuring repositories
 
 ```yaml
