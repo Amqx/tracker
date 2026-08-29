@@ -1,4 +1,4 @@
-# commit -> discord webhook
+# Tracker
 
 Watches a list of GitHub repositories and posts new commits to a Discord webhook.
 A GitHub Action runs it on a schedule; the last seen commit per repository lives in
