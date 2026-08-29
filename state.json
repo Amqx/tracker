@@ -3,21 +3,21 @@
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
       "etag": "\"da44e7995b9e914f184cfc85f3ca694a344192a9298b0f58066cd5c8225893ec\"",
-      "last_checked": "2026-08-29T06:41:35Z",
+      "last_checked": "2026-08-29T13:45:28Z",
       "last_sha": "16e515c7c8835cdb99b1f0805811d0ebeabddb12"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
-      "etag": "\"50b7fffa3543ca14c1111876b3592f3597491f4abf0dbf3c0a147f314f19be27\"",
-      "last_checked": "2026-08-29T06:41:34Z",
-      "last_sha": "afe715d8ac94d4700d47c07fa7a4f12db110f704"
+      "etag": "\"8e1a05e2b94dae3e1fd69774e3f13645a556558da6322c8b8325c4801c8b005d\"",
+      "last_checked": "2026-08-29T13:45:27Z",
+      "last_sha": "8d13b4309ee7822b6470b8d4a1991a8f3196750b"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"d73786f62ccae2779ea49e79b1937a6efc5e8e8afedcce443c6c5d4d35ad6a32\"",
-      "last_checked": "2026-08-29T06:41:35Z",
+      "last_checked": "2026-08-29T13:45:27Z",
       "last_sha": "14648c7cf0aa84e5a35d48de9dbf1386df6cca42"
     }
   },
-  "updated_at": "2026-08-29T06:41:35Z"
+  "updated_at": "2026-08-29T13:45:28Z"
 }
