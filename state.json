@@ -2,40 +2,40 @@
   "repos": {
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
-      "etag": "\"ea46003191fd195b0e023b69e79291ddcd8f3ecb0dead341921033e11afc8229\"",
-      "last_checked": "2026-09-05T18:02:13Z",
-      "last_sha": "7b654a591a5537f85535f70be7306ffafccf447f"
+      "etag": "\"76a3ee9a07f85b72c18bde87b5bdbef8c328e2eafbf280f9b7e2fa7e0903f4f5\"",
+      "last_checked": "2026-09-05T21:59:42Z",
+      "last_sha": "0f537147588d7fec7d70a22a9d7084376cd5c2b7"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
       "etag": "\"179fd7cf667ab27b212590e9e1f3c994a6892ab8541aad58bc0e5c8c189d1fec\"",
-      "last_checked": "2026-09-05T18:02:12Z",
+      "last_checked": "2026-09-05T21:59:40Z",
       "last_sha": "e79332fa61a4106cfb8685a78ae791eb404cefc2"
     },
     "SoCuul/SCInsta@<default>": {
       "branch": "main",
       "etag": "\"48ac268aa93c410fbf29d5c4c68e7cad6718194ad4da903dac60d8d2b5173c60\"",
-      "last_checked": "2026-09-05T18:02:13Z",
+      "last_checked": "2026-09-05T21:59:43Z",
       "last_sha": "7bb71807190518ed45d21c716704c38e45a19253"
     },
     "TextureGroup/Texture@<default>": {
       "branch": "master",
       "etag": "\"e635104d3dcbbefa42e60d9cb0c154ffec958432fa6909ed6cd4f098229a043e\"",
-      "last_checked": "2026-09-05T18:02:14Z",
+      "last_checked": "2026-09-05T21:59:44Z",
       "last_sha": "d8aa8c796dd7770ea177989253ef1cf8878cd50a"
     },
     "alizahid/acorn@<default>": {
       "branch": "main",
-      "etag": "\"077326d0cf73531cd68d737f3954d01bd04a7914b02c12cfbcc437807b50d5b6\"",
-      "last_checked": "2026-09-05T18:02:13Z",
-      "last_sha": "6a5724858199272cf693d65917a17a972bf148b4"
+      "etag": "\"9bd5d3fab7d62359d8adca72aa540444e7666bc779169f15720f575377671cc4\"",
+      "last_checked": "2026-09-05T21:59:43Z",
+      "last_sha": "b5e92af3985d5436a7be741e75c81dab042f6497"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"d73786f62ccae2779ea49e79b1937a6efc5e8e8afedcce443c6c5d4d35ad6a32\"",
-      "last_checked": "2026-09-05T18:02:12Z",
+      "last_checked": "2026-09-05T21:59:41Z",
       "last_sha": "14648c7cf0aa84e5a35d48de9dbf1386df6cca42"
     }
   },
-  "updated_at": "2026-09-05T18:02:14Z"
+  "updated_at": "2026-09-05T21:59:44Z"
 }
