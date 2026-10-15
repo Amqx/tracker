@@ -3,39 +3,39 @@
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
       "etag": "\"3ac75a7e78eddc4b634dc6faef95a1dcd3b68132dbf6a74d5427a85840b11434\"",
-      "last_checked": "2026-10-14T20:05:45Z",
+      "last_checked": "2026-10-15T04:09:01Z",
       "last_sha": "9012f9776175ea2dafc7080dcb0473424c788679"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
       "etag": "\"00876c2ec332012e0cd50f54c7f76b749c0df10df373c5010f410f01579377f0\"",
-      "last_checked": "2026-10-14T20:05:43Z",
+      "last_checked": "2026-10-15T04:09:00Z",
       "last_sha": "1c44a87ba0d62da32f17e436a5771ab10c0c2678"
     },
     "SoCuul/SCInsta@<default>": {
       "branch": "main",
       "etag": "\"48ac268aa93c410fbf29d5c4c68e7cad6718194ad4da903dac60d8d2b5173c60\"",
-      "last_checked": "2026-10-14T20:05:46Z",
+      "last_checked": "2026-10-15T04:09:02Z",
       "last_sha": "7bb71807190518ed45d21c716704c38e45a19253"
     },
     "TextureGroup/Texture@<default>": {
       "branch": "master",
       "etag": "\"e635104d3dcbbefa42e60d9cb0c154ffec958432fa6909ed6cd4f098229a043e\"",
-      "last_checked": "2026-10-14T20:05:46Z",
+      "last_checked": "2026-10-15T04:09:03Z",
       "last_sha": "d8aa8c796dd7770ea177989253ef1cf8878cd50a"
     },
     "alizahid/acorn@<default>": {
       "branch": "main",
-      "etag": "\"5ed3e26f10c1b1092ef1a08709a822835defc27e5e66ea9a3b9cd2d7e051b5a7\"",
-      "last_checked": "2026-10-14T20:05:45Z",
-      "last_sha": "05cdd3ddeee226151e5ae8e48562d607b70fec59"
+      "etag": "\"6302bbf7b2db5db792143e9b78db42c759d73709c580820305d3e5369e71ada1\"",
+      "last_checked": "2026-10-15T04:09:02Z",
+      "last_sha": "9a791521fcf0e29d5f5bbe258dd017f9d985f28a"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"c6f981d24eda7393972451860e004d4e711022ab6364cae0622b01cdf0578d84\"",
-      "last_checked": "2026-10-14T20:05:43Z",
+      "last_checked": "2026-10-15T04:09:00Z",
       "last_sha": "5a469745d39e8f8cea9a1669bea6108cd71dc951"
     }
   },
-  "updated_at": "2026-10-14T20:05:46Z"
+  "updated_at": "2026-10-15T04:09:03Z"
 }
