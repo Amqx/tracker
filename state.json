@@ -2,40 +2,40 @@
   "repos": {
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
-      "etag": "\"3ac75a7e78eddc4b634dc6faef95a1dcd3b68132dbf6a74d5427a85840b11434\"",
-      "last_checked": "2026-10-16T13:07:50Z",
-      "last_sha": "9012f9776175ea2dafc7080dcb0473424c788679"
+      "etag": "\"e850cd84d569f6dabf557d881993ada9869ffbc2876a029affe2fe992821d3bc\"",
+      "last_checked": "2026-10-16T19:28:28Z",
+      "last_sha": "2ab94d0c8d73ecb20630c219cfee902fa480408b"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
       "etag": "\"4eadda95626ae2348c7a9dd9a7d7584bb3defbedc5bc57861817c402173151ae\"",
-      "last_checked": "2026-10-16T13:07:48Z",
+      "last_checked": "2026-10-16T19:28:26Z",
       "last_sha": "b67cd485154760bdf3e96e83e9791f3889ddb395"
     },
     "SoCuul/SCInsta@<default>": {
       "branch": "main",
       "etag": "\"48ac268aa93c410fbf29d5c4c68e7cad6718194ad4da903dac60d8d2b5173c60\"",
-      "last_checked": "2026-10-16T13:07:52Z",
+      "last_checked": "2026-10-16T19:28:29Z",
       "last_sha": "7bb71807190518ed45d21c716704c38e45a19253"
     },
     "TextureGroup/Texture@<default>": {
       "branch": "master",
       "etag": "\"e635104d3dcbbefa42e60d9cb0c154ffec958432fa6909ed6cd4f098229a043e\"",
-      "last_checked": "2026-10-16T13:07:52Z",
+      "last_checked": "2026-10-16T19:28:34Z",
       "last_sha": "d8aa8c796dd7770ea177989253ef1cf8878cd50a"
     },
     "alizahid/acorn@<default>": {
       "branch": "main",
       "etag": "\"b5100047d7a11f2a13636021aea53b5d166a43ab67f2f9c66cff2fe8500d4164\"",
-      "last_checked": "2026-10-16T13:07:51Z",
+      "last_checked": "2026-10-16T19:28:28Z",
       "last_sha": "d8c2dd245fa311bb0d57e2c12dc37be2463f3143"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"c6f981d24eda7393972451860e004d4e711022ab6364cae0622b01cdf0578d84\"",
-      "last_checked": "2026-10-16T13:07:49Z",
+      "last_checked": "2026-10-16T19:28:27Z",
       "last_sha": "5a469745d39e8f8cea9a1669bea6108cd71dc951"
     }
   },
-  "updated_at": "2026-10-16T13:07:52Z"
+  "updated_at": "2026-10-16T19:28:34Z"
 }
