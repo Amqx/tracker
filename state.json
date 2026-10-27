@@ -2,40 +2,40 @@
   "repos": {
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
-      "etag": "\"97ea5e3c89ee70bf9e0cd165774b5bd62cdc1288e75865e4c799a0fc52641451\"",
-      "last_checked": "2026-10-27T14:16:58Z",
-      "last_sha": "795b1c5a26e5ae3f9bae3bc6e45d297026d2454c"
+      "etag": "\"17546660c16b23a7fbec6bc6b7aa82d769c5b96958fc295ae3e8e17059b37e8d\"",
+      "last_checked": "2026-10-27T20:32:14Z",
+      "last_sha": "03e8d5728f55bf28ab14570c8387dc1ff5526358"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
       "etag": "\"e2971dcde9619dfe20415fe0b060620ab509e827aabddd87f1f0c466380a50b8\"",
-      "last_checked": "2026-10-27T14:16:57Z",
+      "last_checked": "2026-10-27T20:32:12Z",
       "last_sha": "ceee58b29d4f48106cf63042ca0cb075a8ac22b4"
     },
     "SoCuul/SCInsta@<default>": {
       "branch": "main",
       "etag": "\"48ac268aa93c410fbf29d5c4c68e7cad6718194ad4da903dac60d8d2b5173c60\"",
-      "last_checked": "2026-10-27T14:17:00Z",
+      "last_checked": "2026-10-27T20:32:15Z",
       "last_sha": "7bb71807190518ed45d21c716704c38e45a19253"
     },
     "TextureGroup/Texture@<default>": {
       "branch": "master",
       "etag": "\"e635104d3dcbbefa42e60d9cb0c154ffec958432fa6909ed6cd4f098229a043e\"",
-      "last_checked": "2026-10-27T14:17:01Z",
+      "last_checked": "2026-10-27T20:32:16Z",
       "last_sha": "d8aa8c796dd7770ea177989253ef1cf8878cd50a"
     },
     "alizahid/acorn@<default>": {
       "branch": "main",
       "etag": "\"a358398fe53f56a07a12a8779dd737e919fd26ada60aaeee47e27379b029ba21\"",
-      "last_checked": "2026-10-27T14:17:00Z",
+      "last_checked": "2026-10-27T20:32:14Z",
       "last_sha": "e91d7f811266388d5d1b525f2162b29f64946a4a"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"a9346a7636d3ea6f5d543e8fbbec16fe7b7db9c67e7b7863cc6d6592dc8e6556\"",
-      "last_checked": "2026-10-27T14:16:58Z",
+      "last_checked": "2026-10-27T20:32:13Z",
       "last_sha": "bfd8436f8b2aca5f996d2c03376f16f608c3785f"
     }
   },
-  "updated_at": "2026-10-27T14:17:01Z"
+  "updated_at": "2026-10-27T20:32:16Z"
 }
