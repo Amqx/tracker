@@ -2,40 +2,40 @@
   "repos": {
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
-      "etag": "\"c40e06e1971ed3337a4316d93995d81b7d0817a8b5c8ff350b9f10682606d32a\"",
-      "last_checked": "2026-11-08T20:19:21Z",
-      "last_sha": "4f009d6d06b7f3b1ec3daa793435c802ae594133"
+      "etag": "\"2981b6d8d4be96bed19c8f25848fbd19f2503c9d1aa59b7c80f3d74768c9e8aa\"",
+      "last_checked": "2026-11-09T05:44:12Z",
+      "last_sha": "a6ec13ae4127331c8edee6bad469144245b1db8a"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
       "etag": "\"9a792f971f9c8dd8286784dd5fc4efe6ad267daadf84afcd6695c165e41c9a69\"",
-      "last_checked": "2026-11-08T20:19:20Z",
+      "last_checked": "2026-11-09T05:44:10Z",
       "last_sha": "41ae2a604213d4eeb5bf19287eec675ea90e15aa"
     },
     "SoCuul/SCInsta@<default>": {
       "branch": "main",
       "etag": "\"2fd4326d77adae2c47687e962a0599295eba859d9bc92295ceed72b920d0a335\"",
-      "last_checked": "2026-11-08T20:19:21Z",
+      "last_checked": "2026-11-09T05:44:13Z",
       "last_sha": "7bb71807190518ed45d21c716704c38e45a19253"
     },
     "TextureGroup/Texture@<default>": {
       "branch": "master",
       "etag": "\"e635104d3dcbbefa42e60d9cb0c154ffec958432fa6909ed6cd4f098229a043e\"",
-      "last_checked": "2026-11-08T20:19:22Z",
+      "last_checked": "2026-11-09T05:44:14Z",
       "last_sha": "d8aa8c796dd7770ea177989253ef1cf8878cd50a"
     },
     "alizahid/acorn@<default>": {
       "branch": "main",
-      "etag": "\"1abc057b4053876708a24e29ab44422e3c649e6fdb036683a4c7d9eb34efd5e6\"",
-      "last_checked": "2026-11-08T20:19:21Z",
-      "last_sha": "231919cf898a0e71deacb01bdd70c23339b7adb8"
+      "etag": "\"78a50873c5ec354d47b8b90d99c07de2953eb5c6eb51f9e1df33c312c46d910e\"",
+      "last_checked": "2026-11-09T05:44:13Z",
+      "last_sha": "36ae02e9d25725c1c0e47ae81213cebcc54eb611"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"6a2768a22b2eb66394fd127af2f8fb03910dd98ade32627d0a86f2358e94d4b4\"",
-      "last_checked": "2026-11-08T20:19:20Z",
+      "last_checked": "2026-11-09T05:44:11Z",
       "last_sha": "c1eb1e3cbfd7d5ab0156a75642222c59c764b9c9"
     }
   },
-  "updated_at": "2026-11-08T20:19:22Z"
+  "updated_at": "2026-11-09T05:44:14Z"
 }
