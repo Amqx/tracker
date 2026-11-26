@@ -3,39 +3,39 @@
     "Aidoku-Community/sources@<default>": {
       "branch": "main",
       "etag": "\"56214f26295dbcd11aa626d69393421bd5aa91e02294ead5e54421817c2a75ed\"",
-      "last_checked": "2026-11-26T00:06:16Z",
+      "last_checked": "2026-11-26T13:41:54Z",
       "last_sha": "4aa33ebbffb655b26442e07dc6d873838c3e66c7"
     },
     "Aidoku/Aidoku@<default>": {
       "branch": "main",
       "etag": "\"c3391e37891e42101ed623f0f6027cf50bd96cd032c1dac6c01d021c23a58d42\"",
-      "last_checked": "2026-11-26T00:06:14Z",
+      "last_checked": "2026-11-26T13:41:52Z",
       "last_sha": "95d1468d599a154f03d6a1dd06bf839d3ff3f7bd"
     },
     "SoCuul/SCInsta@<default>": {
       "branch": "main",
       "etag": "\"2fd4326d77adae2c47687e962a0599295eba859d9bc92295ceed72b920d0a335\"",
-      "last_checked": "2026-11-26T00:06:18Z",
+      "last_checked": "2026-11-26T13:41:55Z",
       "last_sha": "7bb71807190518ed45d21c716704c38e45a19253"
     },
     "TextureGroup/Texture@<default>": {
       "branch": "master",
       "etag": "\"e635104d3dcbbefa42e60d9cb0c154ffec958432fa6909ed6cd4f098229a043e\"",
-      "last_checked": "2026-11-26T00:06:18Z",
+      "last_checked": "2026-11-26T13:41:56Z",
       "last_sha": "d8aa8c796dd7770ea177989253ef1cf8878cd50a"
     },
     "alizahid/acorn@<default>": {
       "branch": "main",
       "etag": "\"346c6379e4000f0df3b02b65d7f2ca81c717041440ebd75e56119f9b90833a55\"",
-      "last_checked": "2026-11-26T00:06:17Z",
+      "last_checked": "2026-11-26T13:41:55Z",
       "last_sha": "280676ca72aac31c95b91c3cacd78dcadd2d98cc"
     },
     "jobobby04/TachiyomiSY@<default>": {
       "branch": "master",
       "etag": "\"5fcd4823c5ea20e4b39444ea4ef5acd183678a128e5668dbe1efce7781ceae65\"",
-      "last_checked": "2026-11-26T00:06:15Z",
+      "last_checked": "2026-11-26T13:41:53Z",
       "last_sha": "5c77cad3039dc846943196beb97cba586d470efe"
     }
   },
-  "updated_at": "2026-11-26T00:06:18Z"
+  "updated_at": "2026-11-26T13:41:56Z"
 }
